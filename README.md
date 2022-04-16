@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I use data to help businesses make informed decisions
+
 
 <!--
 **Codedjames/Codedjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
