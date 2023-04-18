@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Joan.
-### I am Data Analyst, Customer service Professional and Medical Parasitology Graduate (M.Sc.)
+### I am a Data Analyst, Customer service Professional and Medical Parasitology Graduate (M.Sc.)
 <!--
 **Analyst-Joan/Analyst-Joan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
