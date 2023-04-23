@@ -8,7 +8,9 @@ Here are some Interesting facts about me:
 - 🔭 I'm a lifelong Science Student - learning, unlearning, and re-learning....
 - 🌱 The researcher in me enjoys the brain-stimulations that comes with data cleaning, exploration, Analysis and Data Story telling.
 - 👯 I look forward to collaborating with other Data Analysts and other Big data professionals to work on real world data and provide actionable insights that solve business problems.
-- 🤔 I’m looking for help with Job opportunities - Aspiring to work alongside a dynamic team in a healthy environment where Skills are harnessed and opportunities for growth abounds
+- :computer: I'm currently working on projects to enhance my data analytics skills.
+- 🤔 I’m looking for help with Job opportunities - Aspiring to work alongside a dynamic team in a healthy environment where Skills are harnessed and opportunities for growth abounds.
+- :briefcase: I'm open to Junior Data Analyst or Internship roles.
 
 - 📫 You can connect with me: [LinkedIn](https://linkedin.com/in/chukwuemekajoanc/), [Twitter](https://twitter.com/Analyst_Joan)
 
@@ -17,4 +19,4 @@ Here are some Interesting facts about me:
 ## Tools I Use For Data Analysis:
 - Microsoft Excel
 - Power BI
-- SQL
+- SQL (Structured Query Language)
