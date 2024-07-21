@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Joan.
-**I am a Data Analyst**
+**I am a Data Analyst and a Customer Experience Professional**
 <!--
 **Analyst-Joan/Analyst-Joan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
