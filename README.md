@@ -1,21 +1,13 @@
-## Hi there 👋 My name is Joan.
-**I am a Data Analyst and Customer Experience Professional**
-<!--
-**Analyst-Joan/Analyst-Joan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## Interesting facts about me:
-- 🔭 I'm a lifelong Science Student - learning, unlearning, and re-learning....😉
-- 🌱 The researcher in me enjoys the brain-stimulations that comes with end-end data Analytics and Data Story telling.
-- 🔍 My Interest in tech/analytics heightened while using SPSS to analyse my Medical Parasitology Graduate project (M.Sc.).🤓
-- ⚡ Things i do to unwind: Leisure reading, Listening to Music, playing board games - Chess, Scrabble,etc.
+## Hi there 👋 My name is [James](https://linkedin.com/in/james-oladejo-2000/)
+I'm a data-driven problem solver passionate about uncovering actionable insights from complex datasets. With a keen eye for detail and a love for exploring data, I'm proficient in SQL,Microsoft Excel, Microsoft Power BI, Looker Studio, and Python. 
+
+I thrive on transforming raw data into compelling narratives that drive informed decision-making. Eager to contribute to a dynamic team and explore new challenges in the world of data analysis.
 
 ## 🧠 My Current Interests and Learning Path
--  :computer: Microsoft Fabric 
-- 🛠️SQL Server Developer
-- 🔎 Open Source
-- 📈 I completed a Power BI Virtual internship with PwC Switzerland via [Forage](https://www.theforage.com/course-catalog/data)
-- 🔭 I'm currently working on projects to enhance my data analytics skills.
-- 💬 Talk to me about data analytics and health research
+-  :computer: SQL Developer, Power BI Developer, Python Developer
+-  Business and Economic Research
+-  Data Storytelling
+
 
 ## 👀 What am I looking for?
 - 👯 Collaboration with other Data Analysts and other Big data professionals on data analytics projects
@@ -25,10 +17,12 @@
 - Microsoft Excel 
 - Power BI
 - SQL (Structured Query Language)
+- Looker Studio
+- Python Programming Language
 
 ## 📫 You can connect with me on: 
-[LinkedIn](https://linkedin.com/in/chukwuemekajoanc/) or
-[Twitter](https://twitter.com/Analyst_Joan)
+[Linkedin](https://linkedin.com/in/james-oladejo-2000/) or
+[Twitter](https://twitter.com/CodedJBO)
 
 
 
