@@ -11,8 +11,8 @@ I thrive on transforming raw data into compelling narratives that drive informed
 
 
 ## 👀 What am I looking for?
-- 👯 Collaboration with other Data Analysts and other Big data professionals on data analytics projects
-- :briefcase: Job opportunities - Junior Data Analyst or Internship roles.
+- 👯 Collaboration with Founders and other professionals on areas that invloves building a data driven solution for businesses. 
+- :briefcase: Job opportunities - Data Analyst, Product Analyst, and Business Intelligence roles.
 
 ## Tools I Use For Data Analysis:
 - Microsoft Excel 
