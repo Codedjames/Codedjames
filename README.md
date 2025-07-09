@@ -24,7 +24,7 @@ I thrive on transforming raw data into compelling narratives that drive informed
 
 ## 📫 You can connect with me on: 
 [Linkedin](https://linkedin.com/in/james-oladejo-2000/) or
-[Twitter](https://twitter.com/CodedJBO)
+[Twitter](https://twitter.com/jamisi_)
 
 
 
