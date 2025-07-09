@@ -5,8 +5,9 @@ I thrive on transforming raw data into compelling narratives that drive informed
 
 ## 🧠 My Current Interests and Learning Path
 -  :computer: SQL Developer, Power BI Developer, Python Developer
--  Business and Economic Research
+-  Data Visualization
 -  Data Storytelling
+-  Product Analytics
 
 
 ## 👀 What am I looking for?
@@ -19,6 +20,7 @@ I thrive on transforming raw data into compelling narratives that drive informed
 - SQL (Structured Query Language)
 - Looker Studio
 - Python Programming Language
+- Mixpanel
 
 ## 📫 You can connect with me on: 
 [Linkedin](https://linkedin.com/in/james-oladejo-2000/) or
