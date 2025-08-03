@@ -1,10 +1,11 @@
 ## Hi there 👋 My name is [James](https://linkedin.com/in/james-oladejo-2000/)
-I'm a data-driven problem solver passionate about uncovering actionable insights from complex datasets. With a keen eye for detail and a love for exploring data, I'm proficient in SQL,Microsoft Excel, Microsoft Power BI, Looker Studio, and Python. 
+I'm a data-driven problem solver, passionate about helping startups and SMEs scale, optimize operations and tap into opportunities using data. With a keen eye for detail and a drive for creating impactful business solutions, I'm proficient in SQL,Microsoft Excel, MIxpanel, Metabase, Microsoft Power BI, Looker Studio, and Python. 
 
-I thrive on transforming raw data into compelling narratives that drive informed decision-making. Eager to contribute to a dynamic team and explore new challenges in the world of data analysis.
+I thrive on transforming raw data into compelling narratives that drive informed decision-making. Eager to contribute to a dynamic team and explore new challenges in the world of Analytics.
 
 ## 🧠 My Current Interests and Learning Path
--  :computer: SQL Developer, Power BI Developer, Python Developer
+-  :computer: Data Analytics, Data Engineering, Power BI Developer
+-  Business Intelligence
 -  Data Visualization
 -  Data Storytelling
 -  Product Analytics
@@ -21,6 +22,7 @@ I thrive on transforming raw data into compelling narratives that drive informed
 - Looker Studio
 - Python Programming Language
 - Mixpanel
+- Metabase
 
 ## 📫 You can connect with me on: 
 [Linkedin](https://linkedin.com/in/james-oladejo-2000/) or
